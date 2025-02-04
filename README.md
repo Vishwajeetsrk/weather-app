@@ -2,6 +2,9 @@
 
 A simple weather application that fetches real-time weather data using the **OpenWeatherMap API**.
 
+## Screenshot
+<img width="282" alt="Weather App" src="https://github.com/user-attachments/assets/8c460fa5-9207-41d7-9b6a-052d146ff2b5" />
+
 ## 🚀 Features
 - Get real-time weather updates for any city.
 - Displays temperature and weather conditions.
